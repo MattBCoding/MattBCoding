@@ -29,10 +29,10 @@ So far within the course I have gained experience with the following:
 ***
 
 ### Find me around the web 🌎:
-[<img align="left" alt="Matt Bodden | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Matt Bodden | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Matt Bodden | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 
-
-[linkedin]: https://www.linkedin.com/in/matt-bodden/
+I warn you though, I update my social networks far too much, maybe once a decade. I'm trying to cut back though.
 <!--
 **MattBCoding/MattBCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[linkedin]: https://www.linkedin.com/in/matt-bodden/
+[twitter]: https://twitter.com/MattBodden  
