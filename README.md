@@ -10,7 +10,8 @@ Following a successful twenty year career in the automotive industry, one that t
 Within the diploma I have completed three of the five assessment projects and I am currently working my way through the study material on ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) and ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) before starting the fourth project.
 ***
 
-So far within the course I have gained experience with the following:
+So far within the course I have gained experience with the following
+### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
