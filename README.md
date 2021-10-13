@@ -2,10 +2,12 @@
 
 <img align="center" width="98%" src="https://github.com/MattBCoding/MattBCoding/blob/main/banner800.png" />
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=MattBCoding&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBCoding&layout=compact&theme=vision-friendly-dark&hide_border=true" />  
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=MattBCoding&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBCoding&layout=compact&theme=vision-friendly-dark&hide_border=true" />  
 
-Following a successful career within the automotive industry, one that took me around the world, I have settled in the south east of Ireland with my wife. I have since returned to education to pursue a degree in business along with a diploma in software development.  
+Following a successful twenty year career in the automotive industry, one that took me around the world, my wife and I settled in the south east of Ireland. I have since returned to education to pursue a degree in business along with a diploma in software development.  
+  
+  
 Within the diploma I have completed three of the five assessment projects and I am currently working my way through the study material on ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) and ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) before starting the fourth project.
 
 So far within the course I have gained experience with the following:
