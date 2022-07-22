@@ -7,7 +7,7 @@
 
 Following a successful twenty year career in the automotive industry, one that took me around the world, my wife and I settled in the south east of Ireland. I have since returned to education to pursue a degree in business along with a diploma in software development.  
   
-Within the diploma I completed five assessment projects earning a distinction for the first four projects and I am currently awaiting the results of the fifth. I am currently continuing to expand my knowledge by working through a course in Java on Udemy, whilst I am practising my web development skills with through the development of my personal portfolio site. I am also in discussions with a couple of organisations to redevelop or create their websites to provide further portfolio examples.
+Within the diploma I completed five assessment projects earning a distinction for the first four projects and I am currently awaiting the results of the fifth. I am currently continuing to expand my knowledge by working through a course in Java on Udemy, whilst I am practising my web development skills through the development of my personal portfolio site. I am also in discussions with a couple of organisations to redevelop or create their websites to provide further portfolio examples.
 ***
 
 So far within the course I have gained experience with the following
