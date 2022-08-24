@@ -5,12 +5,12 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=MattBCoding&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My GitHub Stats so far..." />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBCoding&layout=compact&theme=vision-friendly-dark&hide_border=true" />  
 
-Following a successful twenty year career in the automotive industry, one that took me around the world, my wife and I settled in the south east of Ireland. I have since returned to education to pursue a degree in business along with a diploma in software development.  
+Following a successful twenty year career in the automotive industry, one that took me around the world, my wife and I settled in the south east of Ireland. I returned to education to pursue a degree in business along with a diploma in software development. Culminating in successfully transitioning my career into software development. 
   
-Within the diploma I completed five assessment projects earning a distinction for the first four projects and I am currently awaiting the results of the fifth. I am currently continuing to expand my knowledge by working through a course in Java on Udemy, whilst I am practising my web development skills through the development of my personal portfolio site. I am also in discussions with a couple of organisations to redevelop or create their websites to provide further portfolio examples.
+Within the diploma I completed five assessment projects earning a distinction overall. I am currently continuing to expand my knowledge by working courses in Java and React in my spare time, whilst working with them both along with Python within a professional environment.
 ***
 
-So far within the course I have gained experience with the following
+Within the diploma I gained experience with the following
 ### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +29,8 @@ So far within the course I have gained experience with the following
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+Whilst professionally I am now being exposed to React and Java.
 
 ***
 
