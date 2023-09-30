@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Matt.
 
-<img align="center" width="98%" src="https://github.com/MattBCoding/MattBCoding/blob/main/banner800.png" />
-
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=MattBCoding&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My GitHub Stats so far..." />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBCoding&layout=compact&theme=vision-friendly-dark&hide_border=true" />  
 
