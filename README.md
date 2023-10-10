@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Matt.
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=MattBCoding&show_icons=true&theme=vision-friendly-dark&hide_border=true&custom_title=My GitHub Stats so far..." />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBCoding&layout=compact&theme=vision-friendly-dark&hide_border=true" />  
 
 Following a successful twenty year career in the automotive industry, one that took me around the world, my wife and I settled in the south east of Ireland. I returned to education to pursue a degree in business along with a diploma in software development. Culminating in successfully transitioning my career into software development. 
   
-Within the diploma I completed five assessment projects earning a distinction overall. I am currently continuing to expand my knowledge by working courses in Java and React in my spare time, whilst working with them both along with Python within a professional environment.
+Within the diploma I completed five assessment projects earning a distinction overall. I am currently continuing to expand my knowledge by working with C#, .NET and React within a professional environment.
 ***
 
 Within the diploma I gained experience with the following
@@ -28,7 +27,6 @@ Within the diploma I gained experience with the following
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-Whilst professionally I am now being exposed to React, Java, C# and the dotnet environment. Within dotnet I am having fun working with asp.net and more recently maui.
 
 ***
 
