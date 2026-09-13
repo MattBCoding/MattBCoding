@@ -2,7 +2,7 @@
 
 Following a successful twenty year career in the automotive industry, one that took me around the world, my wife and I settled in the south east of Ireland. I returned to education to pursue a degree in business along with a diploma in software development. Culminating in successfully transitioning my career into software development. 
   
-Within the diploma I completed five assessment projects earning a distinction overall. I am currently continuing to expand my knowledge by working with C#, .NET and React within a professional environment.
+Within the diploma I completed five assessment projects earning a distinction overall. I am currently continuing to expand my knowledge by working with Python and AI within a professional environment.
 ***
 
 Within the diploma I gained experience with the following
