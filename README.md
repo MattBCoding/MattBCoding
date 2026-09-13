@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Matt.
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBCoding&layout=compact&theme=vision-friendly-dark&hide_border=true" />  
-
 Following a successful twenty year career in the automotive industry, one that took me around the world, my wife and I settled in the south east of Ireland. I returned to education to pursue a degree in business along with a diploma in software development. Culminating in successfully transitioning my career into software development. 
   
 Within the diploma I completed five assessment projects earning a distinction overall. I am currently continuing to expand my knowledge by working with C#, .NET and React within a professional environment.
@@ -32,7 +30,6 @@ Within the diploma I gained experience with the following
 
 ### Find me around the web 🌎:
 [<img align="left" alt="Matt Bodden | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Matt Bodden | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
 
 I warn you, I update my social networks far too much, maybe once a decade. I'm trying to cut back though.
 <!--
@@ -49,5 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[linkedin]: https://www.linkedin.com/in/matt-bodden/
-[twitter]: https://twitter.com/MattBodden  
+[linkedin]: https://www.linkedin.com/in/matt-bodden/ 
